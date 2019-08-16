@@ -1,0 +1,31 @@
+# Project 0
+
+Web Programming with Python and JavaScript
+<html>
+    <head>
+        <title>My Webpage number1 </title>
+    </head>
+    <body>
+        Hello, world!
+    </body>
+    <ul>
+     <li> one item </li>
+     <li> another item </li>
+     </ul>
+     <ol>
+     <li> first item </li>
+     <li> second item </li>
+     </ol>
+     <img src="http://www.arabnews.com/sites/default/files/styles/n_670_395/public/main-image/2018/08/14/1282211-1369448735.jpg?itok=tAtbBGfq">
+#middle {
+font-size: 24px;
+}
+#bottom{
+font-size: 12px;
+}
+.name {
+font-weight: bpld;
+}
+
+</html>
+
